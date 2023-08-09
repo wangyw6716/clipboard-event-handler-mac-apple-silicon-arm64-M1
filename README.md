@@ -10,6 +10,8 @@ This repository provides an ARM64 (Apple Silicon M1) version of the Node Clipboa
 
 The Node Clipboard Event library provides a way to monitor clipboard events and perform actions when clipboard contents change. This version has been compiled specifically for Apple Silicon M1 devices.
 
+![img.png](img.png)
+
 ## Usage
 
 1. Clone this repository to your local machine:

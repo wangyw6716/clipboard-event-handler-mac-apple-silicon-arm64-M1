@@ -14,8 +14,12 @@ The Node Clipboard Event library provides a way to monitor clipboard events and 
 
 ## Usage
 
-1. Download the executable file `clipboard-event-handler-mac` using `wget`:
+Download the executable file `clipboard-event-handler-mac` :
 
-   ```bash
+```bash
    wget https://raw.githubusercontent.com/wangyw6716/clipboard-event-handler-mac-apple-silicon-arm64-M1/main/clipboard-event-handler-mac
 
+   # or curl
+   curl -O -L https://raw.githubusercontent.com/wangyw6716/clipboard-event-handler-mac-apple-silicon-arm64-M1/main/clipboard-event-handler-mac
+
+```
